@@ -31,6 +31,7 @@ CONTACTLASTNAME	It represents the last name of the contact person associated wit
 CONTACTFIRSTNAME	This column denotes the first name of the contact person associated with the customer.
 DEALSIZE	It indicates the size of the deal or order, which are the categories "Small," "Medium," or "Large."
 
+
 # Exploratory Data Analysis (EDA)
 The EDA phase involves:
 
