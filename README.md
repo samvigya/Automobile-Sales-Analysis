@@ -9,29 +9,6 @@ NumPy and Pandas for data manipulation and analysis.
 Matplotlib and Seaborn for data visualization.
 Plotly for interactive visualizations.
 
-# Data Description
-ORDERNUMBER	This column represents the unique identification number assigned to each order.
-QUANTITYORDERED	It indicates the number of items ordered in each order.
-PRICEEACH	This column specifies the price of each item in the order.
-ORDERLINENUMBER	It represents the line number of each item within an order.
-SALES	This column denotes the total sales amount for each order, which is calculated by multiplying the quantity ordered by the price of each item.
-ORDERDATE	It denotes the date on which the order was placed.
-DAYS_SINCE_LASTORDER	This column represents the number of days that have passed since the last order for each customer. It can be used to analyze customer purchasing patterns.
-STATUS	It indicates the status of the order, such as "Shipped," "In Process," "Cancelled," "Disputed," "On Hold," or "Resolved."
-PRODUCTLINE	This column specifies the product line categories to which each item belongs.
-MSRP	It stands for Manufacturer's Suggested Retail Price and represents the suggested selling price for each item.
-PRODUCTCODE	This column represents the unique code assigned to each product.
-CUSTOMERNAME	It denotes the name of the customer who placed the order.
-PHONE	This column contains the contact phone number for the customer.
-ADDRESSLINE1	It represents the first line of the customer's address.
-CITY	This column specifies the city where the customer is located.
-POSTALCODE	It denotes the postal code or ZIP code associated with the customer's address.
-COUNTRY	This column indicates the country where the customer is located.
-CONTACTLASTNAME	It represents the last name of the contact person associated with the customer.
-CONTACTFIRSTNAME	This column denotes the first name of the contact person associated with the customer.
-DEALSIZE	It indicates the size of the deal or order, which are the categories "Small," "Medium," or "Large."
-
-
 # Exploratory Data Analysis (EDA)
 The EDA phase involves:
 
